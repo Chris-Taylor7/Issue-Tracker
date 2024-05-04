@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "MP4KeqnjtmJkt5mBQFiFXdPWt1uUTaC9lHlKB4CXnlw=",
+  "Source": "Issue-Tracker.Server",
+  "BasePath": "_content/Issue-Tracker.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\issue-tracker.client\\issue-tracker.client.esproj",
+      "Version": 2,
+      "Source": "issue-tracker.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

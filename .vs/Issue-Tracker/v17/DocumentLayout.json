@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632419B1-DE32-404F-9DA4-3456F757C1E3}|Issue-Tracker.Server\\Issue-Tracker.Server.csproj|c:\\users\\chtay\\source\\repos\\issue-tracker\\issue-tracker.server\\issue-tracker.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{632419B1-DE32-404F-9DA4-3456F757C1E3}|Issue-Tracker.Server\\Issue-Tracker.Server.csproj|solutionrelative:issue-tracker.server\\issue-tracker.server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Issue-Tracker.Server",
+              "DocumentMoniker": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+              "RelativeDocumentMoniker": "Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+              "ToolTip": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+              "RelativeToolTip": "Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T19:35:34.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+C:\Users\chtay\source\repos\Issue-Tracker\issue-tracker.client\obj\Debug\issue-tracker.client.esproj.CoreCompileInputs.cache
