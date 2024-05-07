@@ -1,0 +1,34 @@
+nav {
+    background-color: #333; /* Background color */
+    overflow: hidden;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    float: left; /* Float the list items horizontally */
+  }
+  
+  nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px; /* Padding for the links */
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #555; /* Background color on hover */
+  }
+  
+  /* Responsive navigation */
+  @media screen and (max-width: 600px) {
+    nav ul {
+      float: none;
+    }
+  }
+  

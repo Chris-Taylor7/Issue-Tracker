@@ -7,7 +7,7 @@ import { Issue } from '../models/Issue';
   providedIn: 'root'
 })
 export class IssueService {
-  private baseUrl = 'https://your-api-url/api/issue'; // Update the URL with your API endpoint
+  private baseUrl = '/api/issue'; 
 
   constructor(private http: HttpClient) { }
 
@@ -30,6 +30,6 @@ export class IssueService {
   }
 
   deleteIssue(issueId: number): Observable<any> {
-    return this.http.delete<any>(`${this.baseUrl}/${issueId}`);
+    return this.http.get<any>(`${this.baseUrl}/${issueId}`);
   }
 }
