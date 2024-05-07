@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { IssuesComponent } from './issues/issues.component';
 import { HomeComponent } from './home/home.component';
+import { IssuesComponent } from './issues/issues.component';
 
 const routes: Routes = [
   { path: '', redirectTo: '/home', pathMatch: 'full' }, // Default route redirects to Home

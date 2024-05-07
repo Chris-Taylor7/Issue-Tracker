@@ -18,5 +18,5 @@ export class AppComponent implements OnInit {
 
   
 
-  title = 'issue-tracker.client';
+  title = 'weatherforecast.client';
 }
