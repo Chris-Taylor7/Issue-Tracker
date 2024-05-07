@@ -38,6 +38,7 @@
     "@tinkoff/ng-dompurify": "4.0.0",
     "dompurify": "3.0.6",
     "jest-editor-support": "*",
+    "primeng": "^17.16.0",
     "run-script-os": "*",
     "rxjs": "~7.8.0",
     "tailwindcss": "^3.4.3",

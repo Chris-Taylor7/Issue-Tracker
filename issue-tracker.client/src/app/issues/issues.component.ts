@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { IssueService } from '../services/issue-service';
+import { Issue } from '../models/Issue';
 
 @Component({
   selector: 'app-issues',
@@ -7,4 +9,9 @@ import { Component } from '@angular/core';
 })
 export class IssuesComponent {
 
+  constructor(private issueService: IssueService){}
+
+  public getIssues(){
+    this.issueService.getIssues().subscribe();
+  }
 }

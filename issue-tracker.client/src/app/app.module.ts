@@ -9,12 +9,15 @@ import { NbCardModule, NbIconModule, NbThemeModule } from '@nebular/theme';
 import { NbTreeGridModule } from '@nebular/theme';
 import { RouterModule } from '@angular/router';
 import { IssuesComponent } from './issues/issues.component';
+import { NewIssueComponent } from './new-issue/new-issue.component';
+import { TableModule } from 'primeng/table';
  @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     NavbarComponent,
     IssuesComponent,
+    NewIssueComponent,
     
   ],
   imports: [
@@ -25,7 +28,8 @@ import { IssuesComponent } from './issues/issues.component';
     NbThemeModule,
     NbTreeGridModule,
     NbCardModule,
-    NbIconModule
+    NbIconModule,
+    TableModule
   ],
   providers: [],
   bootstrap: [AppComponent]

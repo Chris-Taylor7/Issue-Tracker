@@ -16,7 +16,7 @@ export class IssueService {
   }
 
   createOrUpdateIssue(issueId: number, active: boolean, dateWorking: Date, description: string,
-    department: string, name: string, status: Status): Observable<any> {
+    department: string, name: string): Observable<any> {
     const body = {
       issueId,
       active,

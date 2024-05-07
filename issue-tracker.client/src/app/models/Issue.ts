@@ -3,7 +3,7 @@ export interface Issue {
     issueName?: string;
     description?: string;
     department?: string;
-    status?: Status;
+    // status?: Status;
     dateWorking: Date;
     active: boolean;
   }
