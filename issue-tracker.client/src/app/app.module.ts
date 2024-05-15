@@ -11,6 +11,10 @@ import { RouterModule } from '@angular/router';
 import { IssuesComponent } from './issues/issues.component';
 import { NewIssueComponent } from './new-issue/new-issue.component';
 import { TableModule } from 'primeng/table';
+import { InputTextModule } from 'primeng/inputtext';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { CalendarModule } from 'primeng/calendar';
+import { MultiSelectModule } from 'primeng/multiselect';
  @NgModule({
   declarations: [
     AppComponent,
@@ -29,7 +33,13 @@ import { TableModule } from 'primeng/table';
     NbTreeGridModule,
     NbCardModule,
     NbIconModule,
-    TableModule
+    TableModule,
+    InputTextModule,
+    FormsModule,
+    ReactiveFormsModule,
+    CalendarModule,
+    MultiSelectModule
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

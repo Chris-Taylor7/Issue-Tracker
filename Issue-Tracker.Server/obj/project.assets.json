@@ -89,7 +89,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/8.0.4": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.5": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -1848,10 +1848,10 @@
         "logo.png"
       ]
     },
-    "Microsoft.AspNetCore.SpaProxy/8.0.4": {
-      "sha512": "knuNBv+I6bYjaUHb6KoFEU7CjkKgzwHQWmdcMgUZ8DuLzQQxSS8dd/OacVccaKtTEz5PDFDeIKU8Gg+Pgu+Xvw==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.5": {
+      "sha512": "7iEMQelKbwKS5Lk79d/yTOqYSiLPq/wB07Gx4FaFUmF4cv+jtR7vWE55ODaioM+WOHV/ke9HqBCrpfilaaG/Vw==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.4",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.5",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1859,7 +1859,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.4.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.5.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -5001,11 +5001,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+      "projectUniqueName": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
       "projectName": "Issue-Tracker.Server",
-      "projectPath": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+      "projectPath": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
       "packagesPath": "C:\\Users\\chtay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\obj\\",
+      "outputPath": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chtay\\AppData\\Roaming\\NuGet\\NuGet.Config",

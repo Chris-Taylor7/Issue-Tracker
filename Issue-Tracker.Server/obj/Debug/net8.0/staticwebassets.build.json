@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "Hash": "/CXiMOoCVUOKSmQwY/+DXwfJCEH/oZjVHu80dy9dRcE=",
+  "Hash": "v03Kiq3ultq7RIHGecU3wF0fywC+p2uGW3Ugt9aAj20=",
   "Source": "Issue-Tracker.Server",
   "BasePath": "_content/Issue-Tracker.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\issue-tracker.client\\issue-tracker.client.esproj",
+      "Identity": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\issue-tracker.client\\issue-tracker.client.esproj",
       "Version": 2,
       "Source": "issue-tracker.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],

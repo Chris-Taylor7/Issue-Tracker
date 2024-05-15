@@ -1,4 +1,6 @@
-enum Status 
+export enum Status 
 {
-    Open, Closed, In_Progress
+    Open = 'Open',
+    CLosed = 'Closed',
+    In_Progress = 'In Progress'
 }

@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6O83+2PoWslxaZ3is2c+aLeXnkSqUXCU4HmTqpnd2XL7Y6bbWXZDvZWuWP0ew1IaCHRIbnyH0haopVxQWorhww==",
+  "dgSpecHash": "di8sZNLyX/twsU2PZNLAFJfbi3PuhSCnEYbRe8sqAq8oDg36x/t4OmT0d7LzHbKBCLIjZGMKOgC+NOoGwzTYBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+  "projectFilePath": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chtay\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\chtay\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\chtay\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\chtay\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\chtay\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.4\\microsoft.aspnetcore.spaproxy.8.0.4.nupkg.sha512",
+    "C:\\Users\\chtay\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.5\\microsoft.aspnetcore.spaproxy.8.0.5.nupkg.sha512",
     "C:\\Users\\chtay\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\chtay\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\chtay\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

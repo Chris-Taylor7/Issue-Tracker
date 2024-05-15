@@ -1,3 +1,59 @@
 <app-navbar></app-navbar>
 
-<p>new-issue works!</p>
+<form action="">
+    <!--name -->
+    <div>
+        <label for="username">Username</label>
+        <input 
+        pInputText 
+        id="username" 
+        aria-describedby="username-help" 
+        [(ngModel)]="name" />
+    </div>
+    <!--description-->
+    <div>
+        <label for="description">Description</label>
+        <textarea 
+        rows="5" 
+        cols="30" 
+        pInputTextarea 
+        formControlName="text"
+        [(ngModel)]="description"
+        >
+    </textarea>
+    </div>
+    <!--Status -->
+    <div>
+        <label for="status">Status</label>
+        <p-multiSelect 
+        [options]="status" 
+        [(ngModel)]="status" 
+        optionLabel="name" 
+        placeholder="Select Status" />
+    </div>
+    <!--department-->
+    <div>
+        <label for="department">department</label>
+        <p-multiSelect 
+        [options]="department" 
+        [(ngModel)]="department" 
+        optionLabel="name" 
+        placeholder="Select department" />
+    </div>
+    <!--priority-->
+    <div>
+        <label for="deppriorityartment">priority</label>
+        <p-multiSelect 
+        [options]="priority" 
+        [(ngModel)]="priority" 
+        optionLabel="name" 
+        placeholder="Select priority" />
+    </div>
+    <!--Date Working-->
+    <div>
+        <p-calendar
+        [(ngModel)]="dateWorking" 
+        dateFormat="dd.mm.yy"
+        ></p-calendar>
+    </div>
+</form>

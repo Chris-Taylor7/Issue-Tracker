@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj": {}
+    "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj": {
+    "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+        "projectUniqueName": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
         "projectName": "Issue-Tracker.Server",
-        "projectPath": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
+        "projectPath": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\Issue-Tracker.Server.csproj",
         "packagesPath": "C:\\Users\\chtay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chtay\\Source\\Repos\\Issue-Tracker\\Issue-Tracker.Server\\obj\\",
+        "outputPath": "C:\\Users\\chtay\\source\\repos\\Issue-Tracker\\Issue-Tracker.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chtay\\AppData\\Roaming\\NuGet\\NuGet.Config",
